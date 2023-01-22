@@ -1,0 +1,37 @@
+.slider h3,
+.slider h5, 
+.partners h3,
+.event .container h2,
+.event .container p{
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+}
+.container p img {
+    margin-top: 20px;
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.parallax img {
+    filter: grayscale(1);
+    opacity: 1 !important;
+}
+
+.partners img {
+    max-width: 200px;
+    filter: drop-shadow(1px 1px 1px rgba(0,0,0,1));
+    margin-top: 15px;
+}
+
+section,
+footer {
+    padding: 20px 0;
+}
+
+.card-panel {
+    width: 100%;
+}
+
+
+
